@@ -1,4 +1,5 @@
 # Handbook-To-Cloud-Computing
+Link-https://bpbonline.com/collections/cloud-computong/products/handbook-of-cloud-computing-a-great-possibilities-and-high-future-prospects-to-become-ten-times-folds-in-near-future
 My Chapter Is Chapter No. 7- Cloud security
 Description
 The book “Handbook of Cloud Computing” provides the latest and in-depth information of this relatively new and another platform for scientific computing which has great possibilities and high future prospects to become ten folds in near future. The book covers in a comprehensive manner all aspects and terminologies associated with cloud computing like SaaS, PaaS, and IaaS and also elaborates almost every cloud computing service model.
